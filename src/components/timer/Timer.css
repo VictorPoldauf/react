@@ -1,0 +1,8 @@
+.Timer{
+    display: flex;
+    font-size: 6.3rem;
+}
+
+.Timer span:first-child::after{ 
+    content: ':';
+}
